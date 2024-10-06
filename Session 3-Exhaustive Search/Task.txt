@@ -1,0 +1,3 @@
+Solve the game of Six Degrees of Kevin Bacon using (depth first search, breadth first search) 
+
+Six Degrees of Kevin Bacon - Wikipedia 

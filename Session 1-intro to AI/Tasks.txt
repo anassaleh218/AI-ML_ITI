@@ -1,0 +1,7 @@
+#TASK1
+# Put "an" if the first letter in word is "aeiou" else put "a"  (A or An agent)
+#Task 2
+"In the Advanced Vacuum Agent code, add the function ModelThinking_Movement() to check the cells Up, Down, Right, and Left. If a cell is dirty, move to that cell and clean it, then repeat the process.
+Use logs to avoid repeating actions.
+If all adjacent cells are clean, choose a random position.
+Stop when the environment is completely clean or after reaching a maximum number of moves (10 by default, or as specified by the user in the Run method)."
